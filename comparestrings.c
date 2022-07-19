@@ -2,6 +2,9 @@
  *    Source file for comparestrings, a program that compares two strings, and
  *    returns whether they are equal or not.
  *
+ *    Example program from Kochan, Stephan G., "Programming in C 3rd ed.",
+ *    Sams Publishing. Page 204.
+ *
 */
 
 

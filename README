@@ -1,6 +1,10 @@
 /* Comparestrings
 *     A program that compares two strings and returns wether they are equal or
 *  not.
+*     An example program from Kochan, Stephan G., "Programming in C 3rd ed.",
+*   Sams Publishing. Page 204.
+*
+*  Prorammer: Mark Crapser.
 *
 *  07/19/2022
 *      Initial commits of README, comparestrings.c makefile, .gitignore. Then
