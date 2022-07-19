@@ -10,3 +10,11 @@
 *      Initial commits of README, comparestrings.c makefile, .gitignore. Then
 *   initial push.
 *
+*
+*  07/20/2022
+*     A function that takes two strings and returns true or false as to wether
+*  those strings are equal. Two strings are equal if they are the same length
+*  and contain the same characters.
+*
+*     Finished.
+*/
